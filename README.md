@@ -5,15 +5,15 @@
 
 Stack of technologies used in the project:
 
-- [Vite] - Next Generation Frontend Tooling
-- [ReactJS] - A JavaScript library for building user interfaces
-- [React Router Dom] - React Router is a collection of navigational components
-- [GraphQL] - A query language for your API
-- [Apollo GraphQL] - The best way to manage|GraphQL
-- [GraphQL Code Generator] - Generate code from your GraphQL schema
-- [GraphCMS] - Build Your GraphQL Content API. Instantly.
-- [Tailwind CSS] - Rapidly build modern websites without ever leaving your HTML.
-- [Vercel] - Vercel: Develop. Preview. Ship. For the best frontend teams
+- Vite - Next Generation Frontend Tooling
+- ReactJS - A JavaScript library for building user interfaces
+- React Router Dom - React Router is a collection of navigational components
+- GraphQL - A query language for your API
+- Apollo GraphQL - The best way to manage|GraphQL
+- GraphQL Code Generator - Generate code from your GraphQL schema
+- GraphCMS - Build Your GraphQL Content API. Instantly.
+- Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
+- Vercel - Vercel: Develop. Preview. Ship. For the best frontend teams
 
 ## Installation
 
@@ -40,3 +40,17 @@ https://ignite-lab-murex.vercel.app/
 
 # Futures Update
  Responsiveness
+
+
+# Autor
+
+<a href="https://github.com/FranciscoMalstim">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/87835175?v=4" width="100px;" alt="Francisco Santos"/>
+ <br />
+ <sub><b>Francisco Santos</b></sub></a>
+ <br />
+ <br />
+
+Made by Francisco Santos 👋 Get in touch!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-santos-a16519215/)](https://www.linkedin.com/in/francisco-santos-a16519215/)
